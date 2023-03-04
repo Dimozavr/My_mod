@@ -1,0 +1,19 @@
+{   "parent": "block/gun_powder_block",
+  "textures": {
+    "particle": "minemod:block/gun_powder_block",
+    "texture": "minemod:block/gun_powder_block"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0 ],
+      "to": [ 16, 1, 16 ],
+      "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "gun_powder_block", "cullface": "down" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "gun_powder_block" },
+        "north": { "uv": [ 0, 15, 16, 16 ], "texture": "gun_powder_block_north", "cullface": "north" },
+        "south": { "uv": [ 0, 15, 16, 16 ], "texture": "gun_powder_block_south", "cullface": "south" },
+        "west":  { "uv": [ 0, 15, 16, 16 ], "texture": "gun_powder_block_west", "cullface": "west" },
+        "east":  { "uv": [ 0, 15, 16, 16 ], "texture": "gun_powder_block_east", "cullface": "east" }
+      }
+    }
+  ]
+}

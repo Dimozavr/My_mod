@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "minemod:block/pig_block" }
+  }
+}

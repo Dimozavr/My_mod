@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minemod:block/pig_block",
+    "up": "minemod:block/pig_block",
+    "north": "minemod:block/pig_block",
+    "east": "minemod:block/pig_block",
+    "south": "minemod:block/pig_block",
+    "west": "minemod:block/pig_block",
+    "particle": "minemod:block/pig_block"
+  }
+}
